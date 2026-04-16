@@ -31,6 +31,7 @@ Features for later (DON'T IMPLEMENT INITIALLY YET):
 
 Implement any external APIs or Expo API routes or certain modules as needed.
 Implement any services or models that would be needed for the ASL detection and translation. 
+Add all files needed for successful completion of the initial prototype of this app.
 
 ## Design & Branding
 
