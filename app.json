@@ -1,5 +1,6 @@
 {
   "expo": {
+<<<<<<< HEAD
     "name": "capstone_app",
     "slug": "capstone_app",
     "version": "1.0.0",
@@ -43,6 +44,18 @@
     "experiments": {
       "typedRoutes": true,
       "reactCompiler": true
+=======
+    "name": "ASL Translate",
+    "slug": "asl-translate",
+    "version": "1.0.0",
+    "sdkVersion": "49.0.0",
+    "platforms": ["ios", "android"],
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false
+>>>>>>> ad29e3b3ebbc4595382e4664cc1bbf1384fd5f28
     }
   }
 }
